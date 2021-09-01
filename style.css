@@ -48,18 +48,16 @@ body {
     color: rgba(0, 0, 0, 0.767);
     
 }
-
 .header_section::after {
     content: '';
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.7);
+    height: 100%
     z-index: -1;
-
 }
+
 
 .active {
     color: #c59353 !important;
@@ -69,10 +67,10 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
     background-color: rgba(0, 0, 0, 0.7);
     border-bottom: 1px solid;
-    z-index: 99999;
+    /* z-index: 99999; */
 
 }
 
