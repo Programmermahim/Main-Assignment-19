@@ -44,7 +44,7 @@ body {
     background-repeat: no-repeat;
     padding: 200px 0px;
     position: relative;
-    /* z-index: 1; */
+    z-index: 1;
     color: rgba(0, 0, 0, 0.767);
     
 }
